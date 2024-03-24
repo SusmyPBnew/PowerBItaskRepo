@@ -2,7 +2,7 @@ PowerBi-GlobalSuperStore Dashboard
 Introduction
 The project aims to analyze the Global Superstore dataset using Power BI, focusing on key metrics such as total sales, sales by product, sales by location, and comparisons to prior years.
 
-[Check out this video on how dashboard is created in Power BI] https://drive.google.com/drive/folders/1R4744iWzre8NXrn2S9rpsaiob3JEZLEN?usp=sharing
+[Check out this video on how dashboard is created in Power BI] 
 
 Cleaning and Exploring Data
 The dataset is loaded into Power BI, and after data cleaning and modeling, a relational model is established between three tables: Orders (fact table), People, and Returns (dimension tables).
