@@ -58,4 +58,4 @@
 
 <p>In the above analysis using graphs and table structure, we get a complete picture about the Global super store.It helpful for data analysis and make reports.So power-bi is an effective tool for this.</p>
 
-[Check out this video for complete flow about Project] 
+[Check out this video for complete flow about Project : https://drive.google.com/drive/my-drive]
