@@ -28,7 +28,7 @@
          <li>Then give a <i>Pie chart</i> that give info about Total Sales by Market.Here Market "APAC" has the highest sales.ie,22,53,765.13.</li>
          <li>Then give a <i>Scatter chart</i> that give info about Average Sales by Profit and Region.</li>
          </ul>
-
+  </li>
 <li><b>Shipping Analysis</b>:-In this page give some charts, that convey the information about shipping analysis.First we give a navigation to home.Here charts analysis are described below,
  <ul>
    <li>Then give a <i>Ribbon chart</i> that give info about Total Sales by Ship Mode.Here Standard class has the highest total sales would happen.ie,47,69,253.46.</li>
