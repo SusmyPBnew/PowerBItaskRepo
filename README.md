@@ -29,7 +29,7 @@
          <li>Then give a <i>Scatter chart</i> that give info about Average Sales by Profit and Region.</li>
          </ul>
 
-<li><b>Shipping Analysis</b>:-In this page give some charts, that convey the information about shipping analysis.First we give a navigation to home.Here charts analysis are described below, </li>
+<li><b>Shipping Analysis</b>:-In this page give some charts, that convey the information about shipping analysis.First we give a navigation to home.Here charts analysis are described below,
  <ul>
    <li>Then give a <i>Ribbon chart</i> that give info about Total Sales by Ship Mode.Here Standard class has the highest total sales would happen.ie,47,69,253.46.</li>
           <li>Then give a <i>Area chart</i> that give info about Count of State and Total Customers by DaysTakenToShip.Here DaysTakenToShip=4 has highest count of state & highest total customers .ie,4631 & 909 respectively.</li>
