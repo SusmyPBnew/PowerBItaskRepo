@@ -1,37 +1,22 @@
-PowerBi-GlobalSuperStore Dashboard
-Introduction
-The project aims to analyze the Global Superstore dataset using Power BI, focusing on key metrics such as total sales, sales by product, sales by location, and comparisons to prior years.
+
+### GLOBAL SUPER STORE PROJECT IN POWER BI
+
+### Introduction
+
+<p>In this project we manage gloabl super store sales and shipping analysis.When starting this we have done some process are mentioned below,</p>
+
+## Process that Need to Follows,
+<ol>
+<li>First of all we import the data(any format) that import into power bi using <b>getData</b> function</li>
+<li>Alter we get huge collection of data we need to <b>clean</b> it in power query editor through <u>tranform data</u>.For cleaning there are many properties we have example,eliminate duplicate rows,remove all rows with null value,etc.This all changes apply in <i>Table view</i>Table view in power bi</li>
+<li>After that,In the cleaned data we have creating some <b>new measures,new calculated columns,new calculated tables</b>.In our project we have a new table named as customer for save customer data.</li>
+<li>Then we move into <i>Model view</i> where tha relationship between the models are set.In our project we could find three relationship,where order table is the center table connection with all tables.</li>
+<li>Then we make report in <i>Report View</i> where we created differnt table,graphical,Dashboard representations from our huge dataset.From that representation we have arrive some conclusions are decribed below.</li>
+</ol>
+
+## GLOBAL SUPER STORE REPORT ANALYSIS
+
+
+
 
 [Check out this video on how dashboard is created in Power BI] 
-
-Cleaning and Exploring Data
-The dataset is loaded into Power BI, and after data cleaning and modeling, a relational model is established between three tables: Orders (fact table), People, and Returns (dimension tables).
-
-Data
-The data source is the Global Superstore dataset.
-
-Project Overview
-The project is structured as follows
-
-Data Cleaning: The dataset is cleaned to ensure data quality and consistency.
-
-Segmentation of Visuals: Visuals are segmented by country, region, and market to provide targeted analysis.
-
-Shipping Analysis: The percentage of shipping based on ship mode is visualized to understand shipping preferences.
-
-Sales Report: Sales data is analyzed and visualized over cities, states, regions, and markets to identify trends and patterns.
-
-Tables for Visualizations: Supporting tables are created to provide detailed information for each visualization.
-
-Also included visualizations regarding shipping and products
-
-Project Structure
-Data: Contains the dataset used in the project.
-Visualizations: Contains screenshots of the visualizations generated in Power BI.
-Reports: Contains the final interactive report in .pbix format
-Conclusion
-Overall, the dashboards aim to provide comprehensive insights into sales, product performance, and shipping trends, allowing stakeholders to make informed decisions based on the data.
-
-Contributing
-
-Contributions to this project are welcome.
