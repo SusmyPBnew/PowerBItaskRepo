@@ -31,7 +31,32 @@
          </ul>
   </li>
 
+  <li><b>USA Countrywise Analysis</b>:-In this page give some charts, that convey the information about USA countrywise covid-19 analysis.First we give a navigation to home.because it is the main page.Then we listed some <i>cards</i>,that describes some counts like confirmed & Deaths.Here charts analysis are described below,
+    <ul>
+       <li>A Filled Map was plotted first describes about the confirmed count against province state.</li>
+   <li>Then give a <i>Pie chart</i> that give info about New cases against each Month.Here March & May has the highest new cases will happen.ie,103540.June & April has the second highest count would happen.ie,100200.</li>
+         <li>Then give a <i>Scatter chart</i> that give info about Count of Deaths by iso2.Here US has highest count of Deaths is shown.ie,612128</li>
+         <li>Then we have search with all Months are listed there.</li>
+         <li>Then give a <i>Donut chart</i> that give info about Count of Deaths by iso3.Here Us & PRI has the highest Deaths count would happen.ie,612128 & 15040 respectively.</li>
+         <li>Then give a <i>Funnel chart</i> that give info about Sum of deaths under provision state.Here Newyork has the highest sum of deaths.ie,3176945.Puerco Rico has the lowest sum of Deaths.ie,2</li>
+         <li>Then give a <i>Area chart</i> that give info about Confirmed Count by Month.Here March & May has the highest Confirmed count.ie,103540.January has the lowest confirmed count .ie,33400.</li>
+         <li>Then give a <i>Tree Map</i> that give info about Sum of FIPS against province state.Texas has the highest Sum of FIPS.ie,2336203056.</li>
+         </ul>
+  </li>
 
+
+   <li><b> Countrywise Analysis</b>:-In this page give some charts, that convey the information about USA countrywise covid-19 analysis.First we give a navigation to home.because it is the main page.Then we listed some <i>cards</i>,that describes some counts like confirmed & Deaths.Here charts analysis are described below,
+    <ul>
+       <li>A Filled Map was plotted first describes about the confirmed count against province state.</li>
+   <li>Then give a <i>Pie chart</i> that give info about New cases against each Month.Here March & May has the highest new cases will happen.ie,103540.June & April has the second highest count would happen.ie,100200.</li>
+         <li>Then give a <i>Scatter chart</i> that give info about Count of Deaths by iso2.Here US has highest count of Deaths is shown.ie,612128</li>
+         <li>Then we have search with all Months are listed there.</li>
+         <li>Then give a <i>Donut chart</i> that give info about Count of Deaths by iso3.Here Us & PRI has the highest Deaths count would happen.ie,612128 & 15040 respectively.</li>
+         <li>Then give a <i>Funnel chart</i> that give info about Sum of deaths under provision state.Here Newyork has the highest sum of deaths.ie,3176945.Puerco Rico has the lowest sum of Deaths.ie,2</li>
+         <li>Then give a <i>Area chart</i> that give info about Confirmed Count by Month.Here March & May has the highest Confirmed count.ie,103540.January has the lowest confirmed count .ie,33400.</li>
+         <li>Then give a <i>Tree Map</i> that give info about Sum of FIPS against province state.Texas has the highest Sum of FIPS.ie,2336203056.</li>
+         </ul>
+  </li>
      
 </UL>
 
