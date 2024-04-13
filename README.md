@@ -58,6 +58,17 @@
   </li>
 
 
+  <li><b>Worldwise Analysis</b>:-In this page give some charts, that convey the information about worldwise covid-19 analysis.First we give a navigation to home.because it is the main page.Then we listed some <i>cards</i>,that describes some counts like confirmed,active,Deaths,critical,etc.Here charts analysis are described below,
+    <ul>
+       <li>Then give a <i>Pie chart</i> that give info about Serious cases against WHO Region.Here Americans has the highest cases.ie,39973.</li>
+         <li>Then give a <i>Scatter chart</i> that give info about New cases by Country/Region.Here Mexico has highest count of new cases is shown.ie,6590</li>
+         <li>Then we have search with all Country/Region are listed there.</li>
+         <li>Then give a <i>Tree Map</i> that give info about Serious Cases by Country/Region.Here India has the highest serious cases.ie,8944</li>
+         <li>Then give a <i>Line and Stacked column chart</i> that give info about Active Count by WHO Region.Here Luxembourg has the highest active count.ie,995282.And Yamen has the lowest active count.ie,4.</li>
+         <li>Then give a <i>Area chart</i> that give info about Recovered Count by WHO Region.Here Americans has the highest Recovered count.ie,2.And Weatern Pacific Asis has the lowest Recovered count.ie,1.</li>
+         <li>Then give a <i>Ribbon chart</i> that give info about Sum of confirmed Last Week against population.</li>
+         </ul>
+  </li>
 
 
      
